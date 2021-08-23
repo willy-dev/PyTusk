@@ -1,0 +1,5 @@
+PYTHON ERROR HANDLING
+
+1. Use / instead of \ in file path
+2. cv2 error
+    cv2.imshow() only works with cv2.waitKey(0)
